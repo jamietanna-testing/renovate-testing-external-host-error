@@ -1,0 +1,11 @@
+{
+  "name": "renovate-testing-external-host-error",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "All-Rights-Reserved",
+  "description": "",
+  "devDependencies": {
+    "test": "^3.3.0"
+  }
+}
